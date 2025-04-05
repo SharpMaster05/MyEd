@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IIW0tnNaqaE=",
+  "dgSpecHash": "XvP4h1i2Nd8=",
   "success": true,
   "projectFilePath": "D:\\02-SharpMaster\\CSharp\\AspNet\\MyEd\\MyEd.BOL\\MyEd.BOL.csproj",
   "expectedPackageFiles": [
@@ -8,8 +8,10 @@
     "C:\\Users\\mrkol\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.3\\microsoft.entityframeworkcore.9.0.3.nupkg.sha512",
     "C:\\Users\\mrkol\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.3\\microsoft.entityframeworkcore.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\mrkol\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.3\\microsoft.entityframeworkcore.analyzers.9.0.3.nupkg.sha512",
+    "C:\\Users\\mrkol\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.3\\microsoft.entityframeworkcore.relational.9.0.3.nupkg.sha512",
     "C:\\Users\\mrkol\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.3\\microsoft.extensions.caching.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\mrkol\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.3\\microsoft.extensions.caching.memory.9.0.3.nupkg.sha512",
+    "C:\\Users\\mrkol\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.3\\microsoft.extensions.configuration.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\mrkol\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
     "C:\\Users\\mrkol\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\mrkol\\.nuget\\packages\\microsoft.extensions.logging\\9.0.3\\microsoft.extensions.logging.9.0.3.nupkg.sha512",
