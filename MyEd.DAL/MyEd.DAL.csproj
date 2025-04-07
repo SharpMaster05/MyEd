@@ -13,10 +13,13 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="microsoft.EntityFrameworkCore.Relational" Version="9.0.3" />
+    <PackageReference Include="microsoft.EntityFrameworkCore.SqlServer" Version="9.0.3" />
     <PackageReference Include="microsoft.EntityFrameworkCore.Tools" Version="9.0.3">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="microsoft.extensions.configuration" Version="9.0.3" />
+    <PackageReference Include="microsoft.extensions.configuration.json" Version="9.0.3" />
   </ItemGroup>
 
 </Project>
