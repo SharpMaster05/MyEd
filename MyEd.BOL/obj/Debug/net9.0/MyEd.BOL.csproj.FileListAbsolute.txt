@@ -1,0 +1,16 @@
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\bin\Debug\net9.0\MyEd.BOL.deps.json
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\bin\Debug\net9.0\MyEd.BOL.dll
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\bin\Debug\net9.0\MyEd.BOL.pdb
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\bin\Debug\net9.0\MyEd.DAL.dll
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\bin\Debug\net9.0\MyEd.DAL.pdb
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\obj\Debug\net9.0\MyEd.BOL.csproj.AssemblyReference.cache
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\obj\Debug\net9.0\MyEd.BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\obj\Debug\net9.0\MyEd.BOL.AssemblyInfoInputs.cache
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\obj\Debug\net9.0\MyEd.BOL.AssemblyInfo.cs
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\obj\Debug\net9.0\MyEd.BOL.csproj.CoreCompileInputs.cache
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\obj\Debug\net9.0\MyEd.BOL.sourcelink.json
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\obj\Debug\net9.0\MyEd.BOL.csproj.Up2Date
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\obj\Debug\net9.0\MyEd.BOL.dll
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\obj\Debug\net9.0\refint\MyEd.BOL.dll
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\obj\Debug\net9.0\MyEd.BOL.pdb
+D:\02-SharpMaster\CSharp\AspNet\MyEd\MyEd.BOL\obj\Debug\net9.0\ref\MyEd.BOL.dll

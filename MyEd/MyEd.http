@@ -1,6 +1,8 @@
-@MyEd_HostAddress = http://localhost:5269
 
-GET {{MyEd_HostAddress}}/weatherforecast/
-Accept: application/json
+Post  http://localhost:5269/api/User
+Content-Type: : application/json
 
+{
+	
+}
 ###
